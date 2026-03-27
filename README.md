@@ -1,2 +1,2 @@
 # PruneX
-A Input - Aware Transition Pruner for Regex based Automatons
+An Input - Aware Transition Pruner for Regex based Automatons
